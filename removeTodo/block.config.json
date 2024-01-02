@@ -1,8 +1,8 @@
 {
   "type": "function",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/devthalal/myhello.git",
+    "ssh": "git@github.com:devthalal/myhello.git",
     "branch": "block_removeTodo"
   },
   "language": "nodejs",

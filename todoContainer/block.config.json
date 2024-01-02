@@ -2,8 +2,8 @@
   "name": "todoContainer",
   "type": "ui-container",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/devthalal/myhello.git",
+    "ssh": "git@github.com:devthalal/myhello.git",
     "branch": "block_todoContainer"
   },
   "language": "js",

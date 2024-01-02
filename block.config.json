@@ -2,8 +2,8 @@
   "name": "myhello",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/myhello.git",
+    "ssh": "git@github.com:devthalal/myhello.git",
     "branch": "block_myhello"
   },
   "dependencies": {
