@@ -1,0 +1,36 @@
+{
+  "name": "myhello",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/devthalal/myhello.git",
+    "ssh": "git@github.com:devthalal/myhello.git",
+    "branch": "block_myhello"
+  },
+  "dependencies": {
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "ylefDKvDfKWUMMYQyN701",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
