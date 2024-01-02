@@ -1,0 +1,22 @@
+{
+  "name": "todoContainer",
+  "type": "ui-container",
+  "source": {
+    "https": "https://github.com/devthalal/myhello.git",
+    "ssh": "git@github.com:devthalal/myhello.git",
+    "branch": "block_todoContainer"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "byHoSXY8d3RItgCnh0e1N",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "ylefDKvDfKWUMMYQyN701"
+  ]
+}
