@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/myhello.git",
+    "ssh": "git@github.com:devthalal/myhello.git",
+    "branch": "block_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "h7W2k1rI4rnNawTKxnESR",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "ylefDKvDfKWUMMYQyN701"
+  ]
+}
